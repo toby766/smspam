@@ -15,7 +15,7 @@ This project is a web-based application that classifies messages as spam or not 
 Clone the project
 
 ```bash
-  git clone https://link-to-project](https://github.com/your-username/smspam.git
+  git clone https://github.com/your-username/smspam.git
 ```
 
 Go to the project directory
