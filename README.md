@@ -10,11 +10,6 @@ This project is a web-based application that classifies messages as spam or not 
 
 ![spamm2](https://github.com/toby766/smspam/assets/98780108/71ebad57-fd6c-4f3d-9993-393073c484c0)
 
-
-## 🛠 Techonolgies Used
-Python, HTML, CSS, Flask
-
-
 ## Run Locally
 
 Clone the project
@@ -40,4 +35,7 @@ Run on browser
 ```bash
   python app.py
 ```
+
+## 🛠 Techonolgies Used
+Python, HTML, CSS, Flask
 
