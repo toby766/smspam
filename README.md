@@ -6,9 +6,7 @@ This project is a web-based application that classifies messages as spam or not 
 
 
 ## SMS Spam Classifier App
-![spamm1](https://github.com/toby766/smspam/assets/98780108/421d9680-8ea0-46bb-9f1a-91cf5ab3a0ac) 
-
-![spamm2](https://github.com/toby766/smspam/assets/98780108/71ebad57-fd6c-4f3d-9993-393073c484c0)
+![spamm1](https://github.com/toby766/smspam/assets/98780108/421d9680-8ea0-46bb-9f1a-91cf5ab3a0ac)  ![spamm2](https://github.com/toby766/smspam/assets/98780108/71ebad57-fd6c-4f3d-9993-393073c484c0)
 
 
 ## 🛠 Techonolgies Used
